@@ -1,0 +1,5 @@
+lxml
+bs4
+colorama
+terminaltables
+beautifulsoup
