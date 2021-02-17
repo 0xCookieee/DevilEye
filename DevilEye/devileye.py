@@ -1,10 +1,6 @@
 #!/usr/bin/python3
 import sys
 sys.path.append('Modules')
-import uname
-import botnet
-from botnet import *
-from uname import *
 import os
 import time
 import socket
