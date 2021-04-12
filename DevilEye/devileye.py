@@ -7,8 +7,6 @@ import socket
 import getpass
 import time
 from getpass import getpass
-import namesearchus
-from namesearchus import *
 import namesearch
 from namesearch import *
 import phoneinfo
