@@ -13,14 +13,4 @@
                        ""MMmm .  .       WWWWWWW   . :. :,miMM"""  
                               ""MMMMmm . .  .  .   ._,mMMMM""" 
                                   ""MMMMMMMMMMMMM""" 
-                                                    DevilEye Framework By Tetsu
-
-Premier Drop de la Beta de DevilEye Osint Framework !
-
-Pour toute modification du tool contacter moi sur discord ou instagram ! 
-
-discord : Riku.#9666
-
-ig : rikuclm
-
-ne volez pas le script nous surveillons #Calamïty
+                                                    DevilEye Framework By KazuKo
